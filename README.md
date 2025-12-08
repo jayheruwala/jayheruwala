@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm AKSHIT <br>🌐 Full-Stack Developer | 🎓 MCA Student | 🤖 ML & AI Enthusiast |
+Hey there! I'm Jay <br>🌐 Full-Stack Developer | 🎓 MCA Student | 🤖 ML & AI Enthusiast 
 
 
 ## 🌐 Socials:
