@@ -9,7 +9,6 @@ I’m a software developer passionate about building **scalable, reliable, and u
 - 🔗 Building and integrating **REST APIs**
 - 🗄️ Working with **MySQL & MongoDB**
 - 🌐 Knowledge of **Web Development**
-- 🤖 Familiar with **Machine Learning & Data Science**
 - 🚀 Passionate about clean code, scalable systems, and continuous learning
 
 ---
@@ -60,16 +59,6 @@ I’m a software developer passionate about building **scalable, reliable, and u
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Jayheruwala&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Jayheruwala&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayheruwala&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 ## 🚀 What I Like Building
 
 - 📱 iOS Applications
@@ -84,4 +73,3 @@ I’m a software developer passionate about building **scalable, reliable, and u
 
 ### 💡 Code. Build. Learn. Grow.
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Jayheruwala&icon=2&color=0)
